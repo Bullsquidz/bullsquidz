@@ -1,5 +1,8 @@
-## Hi there 👋
+Howdy, this is Daniel talking straight to you, the viewer.
 
+- I currently host my own website which can be found in my bio.
+- I'm currently re-learning HTML, was getting super rusty.
+- Ask me about anything, I dont really mind.
 <!--
 **Bullsquidz/bullsquidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
