@@ -1,3 +1,4 @@
+<!--
 Howdy, this is Daniel talking straight to you, the viewer.
 
 - I currently host my own website which can be found in my bio.
