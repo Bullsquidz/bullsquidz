@@ -14,4 +14,4 @@ I'll revisit it in the near future. Now,
 revisions. It definitely looks a lot "simpler" than what it was previously, but that's the point! I’m handcoding the 
 website myself, and I don’t exactly have much HTML experience other than a high school class I took years ago.
 
-If you got to this point, then thanks for reading! poured my heart, sweat, and tears into this README.
+If you got to this point, then thanks for reading! I poured my heart, sweat, soul, and tears into this README.
