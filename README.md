@@ -1,7 +1,7 @@
 ## Hey-ya! Thanks for checking out my page.
   I am currently in my third year pursuing a degree in Computer Science with a Software Development concentration at 
-the University of Illinois Chicago. I've started many projects over the years—dating back to early high school—many 
-of which will never make it onto this page. What you’ll see here are the works I’ve either completed or am particularly 
+the University of Illinois Chicago. I've started many projects over the years—dating back to the beginning of COVID—many 
+of which will never make it onto this page. That being said, what you’ll see here are the works I’ve either completed or am particularly 
 proud of.
 
 ## Recent Work.
